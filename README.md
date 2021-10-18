@@ -1,5 +1,7 @@
+## Simple Task-List App created with React
 
-# Folgende Readme Inhalte wurden automatisch mit create-react-app erzeugt!
+
+### Folgende Readme Inhalte wurden automatisch mit create-react-app erzeugt!
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
